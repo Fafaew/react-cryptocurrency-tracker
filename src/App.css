@@ -17,6 +17,13 @@
   color: #fff;
 }
 
+.logo{
+  width: 60px;
+  height: 50px;
+  margin-top: -15px;
+  margin-bottom: 20px;  
+}
+
 .coin-search {
   margin-bottom: 64px;
   display: flex;
